@@ -70,6 +70,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://ismaelrak.dev)
-- GitHub [@your-username](https://{github.com/ismaelrak})
-- Twitter [@your-twitter](https://{twitter.com/ismaelrak})
+- Website [ismaelrak.dev](https://ismaelrak.dev)
+- GitHub [@ismaelrak](https://github.com/ismaelrak})
+- Twitter [@ismaelrak](https://{twitter.com/ismaelrak})
